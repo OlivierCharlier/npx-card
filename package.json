@@ -1,0 +1,26 @@
+{
+  "name": "@olione/npx-card",
+  "version": "1.0.1",
+  "description": "https://github.com/becodeorg/LIE-Hamilton-4.25/tree/master/01-main-course/03-the-mountain/03b-npxcard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "olicard": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierCharlier/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivierCharlier/npx-card/issues"
+  },
+  "homepage": "https://github.com/OlivierCharlier/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  }
+}
